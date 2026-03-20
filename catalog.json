@@ -1,34 +1,34 @@
 {
-  "version": 3,
+  "version": 5,
   "rows": [
     {
       "title": "🎬 Movies / Shows",
       "tiles": [
         {
-          "managedId": "movies.flixer",
-          "name": "Movies #1",
-          "url": "https://flixer.sh",
-          "icon": "🍿",
-          "legal": false
-        },
-        {
           "managedId": "movies.cineby",
-          "name": "Movies #2",
+          "name": "Movies #1",
           "url": "https://cineby.app",
           "icon": "🍿",
           "legal": false
         },
         {
           "managedId": "movies.streamex",
-          "name": "Movies #3",
+          "name": "Movies #2",
           "url": "https://streamex.net",
           "icon": "🍿",
-          "legal": true
+          "legal": false
         },
         {
           "managedId": "movies.tmovie",
+          "name": "Movies #3",
+          "url": "https://www.fmovies.gd",
+          "icon": "🍿",
+          "legal": false
+        },
+        {
+          "managedId": "movies-shows.new-tile",
           "name": "Movies #4",
-          "url": "https://tmovie.tv",
+          "url": "https://gaiaflix.live",
           "icon": "🍿",
           "legal": false
         },
@@ -36,6 +36,13 @@
           "managedId": "movies.cuevana",
           "name": "Spanish Movies #1",
           "url": "https://cuevanapelis.net",
+          "icon": "🍿",
+          "legal": false
+        },
+        {
+          "managedId": "movies-shows.new-tile-1",
+          "name": "Spanish Movies #2",
+          "url": "https://sololatino.net",
           "icon": "🍿",
           "legal": false
         },
