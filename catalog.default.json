@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "rows": [
+    {
+      "title": "🎬 Movies / Shows",
+      "tiles": [
+        { "managedId": "movies.flixer", "name": "Movies #1", "url": "https://flixer.sh", "icon": "🍿", "legal": false },
+        { "managedId": "movies.cineby", "name": "Movies #2", "url": "https://cineby.app", "icon": "🍿", "legal": false },
+        { "managedId": "movies.streamex", "name": "Movies #3", "url": "https://streamex.net", "icon": "🍿", "legal": false },
+        { "managedId": "movies.tmovie", "name": "Movies #4", "url": "https://tmovie.tv", "icon": "🍿", "legal": false },
+        { "managedId": "movies.cuevana", "name": "Spanish Movies #1", "url": "https://cuevanapelis.net", "icon": "🍿", "legal": false },
+        { "managedId": "movies.netflix", "name": "Netflix", "url": "https://netflix.com", "icon": "🍿", "legal": true },
+        { "managedId": "movies.hulu", "name": "Hulu", "url": "https://hulu.com", "icon": "🍿", "legal": true },
+        { "managedId": "movies.disney", "name": "Disney+", "url": "https://disneyplus.com", "icon": "🍿", "legal": true }
+      ]
+    },
+    {
+      "title": "⚽ Sports",
+      "tiles": [
+        { "managedId": "sports.streamed", "name": "Sports #1", "url": "https://streamed.pk", "icon": "⚽", "legal": false },
+        { "managedId": "sports.streamex-live", "name": "Sports #2", "url": "https://streamex.net/live", "icon": "⚽", "legal": false },
+        { "managedId": "sports.roja", "name": "Spanish Sports #1", "url": "https://www.rojadirectaenvivo.pl/home8.php", "icon": "⚽", "legal": false },
+        { "managedId": "sports.anguli", "name": "Spanish Sports #2", "url": "https://angulismotv-dnh.pages.dev", "icon": "⚽", "legal": false },
+        { "managedId": "sports.espn", "name": "ESPN+", "url": "https://espn.com", "icon": "⚽", "legal": true },
+        { "managedId": "sports.fubo", "name": "Fubo", "url": "https://fubo.tv", "icon": "⚽", "legal": true }
+      ]
+    },
+    {
+      "title": "📺 Live TV",
+      "tiles": [
+        { "managedId": "livetv.tubi", "name": "Tubi Live", "url": "https://tubi.tv", "icon": "📺", "legal": true },
+        { "managedId": "livetv.pluto", "name": "Pluto TV", "url": "https://pluto.tv", "icon": "📺", "legal": true },
+        { "managedId": "livetv.famelack-all", "name": "Live TV All Countries", "url": "https://famelack.com", "icon": "📺", "legal": false },
+        { "managedId": "livetv.famelack-sv", "name": "El Salvador Live TV", "url": "https://famelack.com/sv", "icon": "📺", "legal": false },
+        { "managedId": "livetv.famelack-us", "name": "USA Live TV", "url": "https://famelack.com/us", "icon": "📺", "legal": false },
+        { "managedId": "livetv.famelack-hn", "name": "Honduras Live TV", "url": "https://famelack.com/hn", "icon": "📺", "legal": false }
+      ]
+    },
+    {
+      "title": "💻 Technology",
+      "tiles": [
+        { "managedId": "tech.youtube", "name": "Youtube", "url": "https://youtube.com", "icon": "💻", "legal": false },
+        { "managedId": "tech.google", "name": "Google", "url": "https://google.com", "icon": "💻", "legal": false }
+      ]
+    },
+    {
+      "title": "🌸 Anime / Manga",
+      "tiles": [
+        { "managedId": "anime.crunchyroll", "name": "Crunchyroll", "url": "https://crunchyroll.com", "icon": "🌸", "legal": true },
+        { "managedId": "anime.tmovie", "name": "Anime #1", "url": "https://tmovie.tv/anime", "icon": "🌸", "legal": false },
+        { "managedId": "anime.streamex", "name": "Anime #2", "url": "https://streamex.net/anime", "icon": "🌸", "legal": false },
+        { "managedId": "anime.manga", "name": "Manga #1", "url": "https://streamex.net/manga", "icon": "🌸", "legal": false }
+      ]
+    }
+  ]
+}
