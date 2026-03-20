@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "rows": [
     {
       "title": "🎬 Movies / Shows",
@@ -19,16 +19,16 @@
           "legal": false
         },
         {
-          "managedId": "movies.tmovie",
+          "managedId": "movies-shows.new-tile",
           "name": "Movies #3",
-          "url": "https://www.fmovies.gd",
+          "url": "https://gaiaflix.live",
           "icon": "🍿",
           "legal": false
         },
         {
-          "managedId": "movies-shows.new-tile",
+          "managedId": "movies.tmovie",
           "name": "Movies #4",
-          "url": "https://gaiaflix.live",
+          "url": "https://www.fmovies.gd",
           "icon": "🍿",
           "legal": false
         },
