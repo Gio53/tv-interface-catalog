@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 8,
   "rows": [
     {
       "title": "🎬 Movies / Shows",
@@ -7,14 +7,14 @@
         {
           "managedId": "movies.cineby",
           "name": "Movies #1",
-          "url": "https://cineby.app",
+          "url": "https://cineby.at",
           "icon": "🍿",
           "legal": false
         },
         {
           "managedId": "movies.streamex",
           "name": "Movies #2",
-          "url": "https://streamex.net",
+          "url": "https://streamex.sh",
           "icon": "🍿",
           "legal": false
         },
@@ -75,28 +75,28 @@
         {
           "managedId": "sports.streamed",
           "name": "Sports #1",
-          "url": "https://streamed.pk",
+          "url": "https://streamed.st",
           "icon": "⚽",
           "legal": false
         },
         {
           "managedId": "sports.streamex-live",
           "name": "Sports #2",
-          "url": "https://streamex.net/live",
+          "url": "https://streamex.sh/live",
           "icon": "⚽",
           "legal": false
         },
         {
-          "managedId": "sports.roja",
-          "name": "Spanish Sports #1",
-          "url": "https://www.rojadirectaenvivo.pl/home8.php",
+          "managedId": "sports.new-tile",
+          "name": "Sports #3",
+          "url": "https://roxiestreams.su",
           "icon": "⚽",
           "legal": false
         },
         {
           "managedId": "sports.anguli",
-          "name": "Spanish Sports #2",
-          "url": "https://angulismotv-dnh.pages.dev",
+          "name": "Spanish Sports #1",
+          "url": "https://futbollibre.gg/es",
           "icon": "⚽",
           "legal": false
         },
